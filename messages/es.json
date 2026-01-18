@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Baires 23.1",
+    "subtitle": "Cocina, ambiente y experiencia nocturna",
+    "cta": "Reservar por WhatsApp"
+  },
+  "concept": {
+    "title": "Una experiencia que va más allá de la cocina",
+    "card1Title": "Nuestra esencia",
+    "card1Text": "Un espacio donde la cocina, la música y la atmósfera se encuentran.",
+    "card2Title": "El ambiente",
+    "card2Text": "Luces tenues y detalles cuidados para noches memorables."
+  },
+  "reservations": {
+    "title": "Reserva tu mesa",
+    "hint": "Completa los datos y te atenderemos por WhatsApp"
+  }
+}

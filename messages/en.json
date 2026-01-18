@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Baires 23.1",
+    "subtitle": "Cuisine, atmosphere and nightlife experience",
+    "cta": "Reserve via WhatsApp"
+  },
+  "concept": {
+    "title": "An experience beyond cuisine",
+    "card1Title": "Our essence",
+    "card1Text": "A place where cuisine, music and atmosphere come together.",
+    "card2Title": "The ambience",
+    "card2Text": "Soft lighting and thoughtful details for memorable nights."
+  },
+  "reservations": {
+    "title": "Reserve your table",
+    "hint": "Fill in the details and we will assist you via WhatsApp"
+  }
+}
