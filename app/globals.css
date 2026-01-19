@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Inputs premium */
 .input {
   width: 100%;
   padding: 12px 16px;
